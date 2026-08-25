@@ -60,3 +60,5 @@ arduino-projects/
 ---
 
 *This repository documents hands-on technical practice and is intended to demonstrate the development of embedded programming and hardware integration skills.*
+
+*AI-assisted tools were used for documentation and formatting efficiency. All technical work, project implementation, and underlying code represent my own hands-on work.*
